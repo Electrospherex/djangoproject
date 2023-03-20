@@ -1,6 +1,4 @@
-# AI-generated project
 
-browser game where players build nations in the long run with a complex economic system and all resources from the nation is updated daily
 ## Quickstart
 
 1. Set up a Python virtual environment and install the required Python dependencies:
